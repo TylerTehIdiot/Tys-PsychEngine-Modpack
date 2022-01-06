@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"high school conflict",
+			"monika",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"bara no yume",
+			"duet",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"your demise",
+			"mangry",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Monika Full Weel",
+	"weekName": "Monika Full Weel",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

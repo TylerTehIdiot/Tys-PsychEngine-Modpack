@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Bruh Moment",
+			"tehnub",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Big Shot",
+			"mrn",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Bloxin",
+			"blox",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"run but recharted",
+			"hbob",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "true hell",
+	"weekName": "True Hell",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

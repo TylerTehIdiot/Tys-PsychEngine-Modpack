@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"Sunshine",
+			"bob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Withered",
+			"wbob",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"run",
+			"hbob",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"storyName": "bobobobobob",
+	"weekName": "bobobobobob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
